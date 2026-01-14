@@ -1,5 +1,5 @@
 """
-Remember to add a title to the site, also find  pictures to match the theme of the site.
+Remember to add a title to the site, and also find  pictures to match the theme of the site.
 """
 print("Hello, World!")
 print('No love')
